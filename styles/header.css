@@ -43,6 +43,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link{
@@ -53,3 +54,6 @@
     text-transform:uppercase;
 }
  
+.container__botao {
+    display: none;
+}
