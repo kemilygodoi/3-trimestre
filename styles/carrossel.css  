@@ -1,3 +1,5 @@
 .carrossel__titulo{
-    color: var(--laranja)
+    color: var(--laranja);
+    background-color: var(--branco);
+    
 }
